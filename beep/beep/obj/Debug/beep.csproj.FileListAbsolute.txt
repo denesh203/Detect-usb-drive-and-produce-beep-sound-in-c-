@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.Form1.resources
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.Properties.Resources.resources
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.csproj.GenerateResource.cache
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\bin\Debug\beep.exe.config
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\bin\Debug\beep.exe
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\bin\Debug\beep.pdb
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.exe
+C:\Users\user\Desktop\画面切替ソフト\beep\beep\obj\Debug\beep.pdb
